@@ -2,10 +2,7 @@
 int X=0;
 int Y=100;
 int g=100;
-void setup(){
   size(1000,1000);
-}
-  void draw() {
     background(231,23,34);
     stroke(23,233,242);
     line(0,500,1000,500);
@@ -18,4 +15,4 @@ void setup(){
     {g=-30;}
 if(X<0)
     {g=100;}
-  }
+  
