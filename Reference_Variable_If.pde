@@ -1,8 +1,8 @@
 // add your Reference_Variable_If code here
+size(1000,1000);
 int X=0;
 int Y=100;
 int g=100;
-size(1000,1000);
 background(231,23,34);
 stroke(23,233,242);
 line(0,500,1000,500);
