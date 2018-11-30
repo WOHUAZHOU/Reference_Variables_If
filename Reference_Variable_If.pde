@@ -4,7 +4,6 @@ int X=0;
 int Y=0;
 void setup(){
   size(1000,1000);
-  
   }
   void draw(){  
   background(45,23,34);
